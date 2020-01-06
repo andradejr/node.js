@@ -1,0 +1,9 @@
+O início do curso é a instalação do chocolatey para utilizá-lo
+para instalar o node.js.
+Depois dessas instalações foi dado,dentro da pasta, o comando
+npm init -y para iniciar a aplicação node.
+Após tudo isso, foi instalado a dependência express com o comando
+npm install express.
+Foi criado o arquivo server.js e escrito nele const express=
+require('express');
+Após isso, foi criado a porta para executar o código.
